@@ -2,3 +2,4 @@
 title: Financial Insights Blog
 description: "Your go-to resource for trading strategies and financial advice."
 theme: minima
+baseurl: "/fincnaicl-insights" # leave empty if not needed
