@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 </head>
 <body>
   <header>
@@ -12,18 +12,17 @@
     <nav>
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/affiliate.html' | relative_url }}">Affiliate</a></li>
-        <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
-        <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
         <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
+        <!-- Add other navigation links as needed -->
       </ul>
     </nav>
   </header>
-
+  
+  <!-- This is where the content of your pages or posts will be injected -->
   <main>
     {{ content }}
   </main>
-
+  
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All Rights Reserved.</p>
   </footer>
