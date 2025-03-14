@@ -5,7 +5,6 @@ date: 2025-03-15 10:00:00 -0500
 categories: [Trading, Investment, Finance]
 ---
 
-<!-- You can write in Markdown or include HTML directly. Below is an example using HTML for SEO content. -->
 
 <article>
   <header>
