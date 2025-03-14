@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Welcome to Our Blog"
 date: 2025-03-15 10:00:00 -0500
 categories: [Trading, Finance]
