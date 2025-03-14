@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Unlock Your Financial Future with Top Trading & Investment Tools"
 date: 2025-03-15 10:00:00 -0500
 categories: [Trading, Investment, Finance]
